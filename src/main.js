@@ -1,1 +1,6 @@
-alert(456);
+import * as $ from "jquery";
+
+import './main.scss';
+import 'bootstrap';
+
+console.log($);
