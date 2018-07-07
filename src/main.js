@@ -1,7 +1,7 @@
 const $ = jQuery = require("jquery");
 
 import './main.scss';
-import 'bootstrap';
+import 'bootstrap'; // Javascript
 
 // Load the HTML
 import cards from './cards.html';
